@@ -1,7 +1,7 @@
 {
   "name": "likes-microservice",
   "version": "0.0.1",
-  "description": "",
+  "description": "sosha reactions microservice",
   "engines": {
     "node": "14.x",
     "yarn": "1.22.18"
